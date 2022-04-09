@@ -1,5 +1,7 @@
 ![Expert on Web-Application Pen-Testing, Security Researching and Web Developing.](https://www.sayeedhossain.com/wp-content/uploads/2022/04/web-application-penetration-testing-service-500x5001-1.jpg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=D83A7C&center=false&vCenter=false&lines=Web-Application+Pen-Tester;Security+Researcher;Full+Stack+Web+Developer;System+Administrator;Competitive+Programmer)](https://git.io/typing-svg)
+
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/sayeedhossain?label=Follow%20Me&style=social)](https://github.com/sayeedhossain)
 <br>
 <br>
@@ -11,6 +13,7 @@
 
 
 <h2 align='center'><samp><strong>Hi there 👋, This is Sayeed Hossain, Founder & CEO of GiveTurn Tech Expert and MuslimPoint Organization.</strong></samp></h2>
+
 <h3 align='center'><strong><a href="https://www.sayeedhossain.com/#resume" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Web-Application Pen-Tester | Security Researcher | Full Stack Web Developer</p>
 
@@ -127,7 +130,5 @@ Innovative professional with proven ability to identify, analyze and solve probl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayeedhossain&layout=compact&theme=radical)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sayeedhossain&theme=radical)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sayeedhossain&theme=radical)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sayeedhossain&theme=radical)  
