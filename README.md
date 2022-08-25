@@ -63,15 +63,17 @@ Innovative professional with proven ability to identify, analyze and solve probl
         <img src="https://www.sayeedhossain.com/wp-content/uploads/2022/04/file-min.png" width="48" height="48" alt="React" />
       </a>
       <br>Python 
- </tr>
- <tr>
-    </td>
+      </td>
+     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://www.sayeedhossain.com/wp-content/uploads/2022/04/php-min.png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>PHP/Laravel 
     </td>
+ </tr>
+ <tr>
+   
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://www.sayeedhossain.com/wp-content/uploads/2022/04/data-min.png" width="48" height="48" alt="Sass" />
