@@ -69,13 +69,13 @@ Innovative professional with proven ability to identify, analyze and solve probl
  </tr>
  <tr>
    <td align="center" width="96">
-      
+       <a href="#">
         <img src="https://www.sayeedhossain.com/wp-content/uploads/2022/04/php-min.png" width="48" height="48" alt="Bootstrap" />
-    
+        </a>
       <br>PHP/Laravel 
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://www.sayeedhossain.com/wp-content/uploads/2022/04/data-min.png" width="48" height="48" alt="Sass" />
       </a>
       <br>Source Code Modification 
