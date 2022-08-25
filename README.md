@@ -64,7 +64,7 @@ Innovative professional with proven ability to identify, analyze and solve probl
       </a>
       <br>Python 
      
-     </td>
+    
     
  </tr>
  <tr>
