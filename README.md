@@ -63,7 +63,7 @@ Innovative professional with proven ability to identify, analyze and solve probl
         <img src="https://www.sayeedhossain.com/wp-content/uploads/2022/04/file-min.png" width="48" height="48" alt="React" />
       </a>
       <br>Python 
-      </td>
+     
      </td>
     <td align="center" width="96">
       <a href="#">
