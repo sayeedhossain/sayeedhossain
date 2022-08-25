@@ -104,12 +104,7 @@ Innovative professional with proven ability to identify, analyze and solve probl
       </a>
       <br>Leadership 
     </td>
-     <td align="center"  width="96">
-      <a href="#">
-        <img src="https://www.sayeedhossain.com/wp-content/uploads/2022/04/terminal-min.png" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>Shell Scripting  
-    </td>
+     
   </tr>
 </table>
 
