@@ -12,7 +12,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10880308/sayeed-hossain)
 
 
-<h2 align='center'><samp><strong>Hi there 👋, This is Sayeed Hossain, Founder & CEO of GiveTurn Tech Expert and MuslimPoint Organization.</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, This is Sayeed Hossain, Founder & CEO of GiveTurn Tech Expert</strong></samp></h2>
 
 <h3 align='center'><strong><a href="https://www.sayeedhossain.com/#resume" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Web Security | Full-Stack Web Development</p>
