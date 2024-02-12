@@ -1,5 +1,3 @@
-![Expert on Web Security and Full-Stack Web Development.](https://www.sayeedhossain.com/wp-content/uploads/2022/04/web-application-penetration-testing-service-500x5001-1.jpg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=D83A7C&center=false&vCenter=false&lines=Web+Security;Full+Stack+Web+Developer;Competitive+Programmer)](https://git.io/typing-svg)
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/sayeedhossain?label=Follow%20Me&style=social)](https://github.com/sayeedhossain)
