@@ -10,13 +10,10 @@ Building scalable digital products, leading technical teams, and turning busines
 
 I am a Full-Stack Developer and Technical Project Manager with 5+ years of professional experience delivering web applications, business platforms, automation systems, and custom software solutions across hundreds of client projects.
 
-As the Founder & CEO of GiveTurn Tech Expert, I lead a multidisciplinary team specializing in:
+Also I lead a multidisciplinary team specializing in:
 
 - Full-Stack Web Development
-- Mobile App Development
 - Digital Marketing
-- UI/UX & Graphic Design
-- Video Production
 - Business Automation Solutions
 
 My expertise goes beyond writing code. I work across the entire product lifecycle—from technical planning and architecture to development, deployment, optimization, and long-term business growth.
@@ -26,8 +23,6 @@ I believe technology should solve real business problems, not just create impres
 ---
 
 ## Professional Highlights
-
-✔ Founder & CEO of GiveTurn Tech Expert
 
 ✔ Delivered hundreds of successful projects across multiple industries
 
@@ -47,35 +42,54 @@ I believe technology should solve real business problems, not just create impres
 
 ## Core Expertise
 
-### Full-Stack Development
+### Frontend Development
 
-- PHP
-- Laravel
+- React.js
+- Vue.js
+- TypeScript
 - JavaScript (ES6+)
-- Node.js
-- REST APIs
-- MVC Architecture
-- MySQL
-- Authentication Systems
-- Database Design
-
-### Frontend Technologies
-
 - HTML5
 - CSS3
 - Tailwind CSS
 - Bootstrap
 - Responsive Design
-- Modern JavaScript
+
+### Backend Development
+
+- PHP
+- Laravel
+- Node.js
+- REST APIs
+- MVC Architecture
+- Authentication Systems
+- API Integrations
+
+### Database Technologies
+
+- PostgreSQL
+- MySQL
+- Database Design
+- Query Optimization
+- Data Modeling
 
 ### Technical Project Management
 
 - Agile Methodologies
 - Product Planning
 - Requirement Analysis
+- Team Leadership
 - Client Communication
-- Team Coordination
 - Delivery Management
+
+### DevOps & Infrastructure
+
+- Docker
+- Git
+- GitHub
+- Linux
+- Cloudflare
+- cPanel
+- SSL/TLS Configuration
 
 ### Performance & Optimization
 
@@ -87,25 +101,22 @@ I believe technology should solve real business problems, not just create impres
 - GTM
 - Caching Strategies
 
-### Security & Infrastructure
+### Security
 
-- Cloudflare
 - Web Security
-- SSL/TLS Configuration
-- DDoS Protection
 - Website Hardening
+- DDoS Protection
 - Firewall Configuration
 - Malware Prevention
 
 ### AI & Research
 
+- Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Data Science
 - Human-AI Collaboration
-- AI Product Strategy
 - Python
-
 ---
 
 ## Research Publication
@@ -158,9 +169,7 @@ CGPA: **3.93 / 4.00**
 
 🌐 Website: https://www.sayeedhossain.com
 
-💼 LinkedIn: https://www.linkedin.com/in/sayeed7
-
-🏢 Company: GiveTurn Tech Expert
+💼 LinkedIn: http://www.linkedin.com/in/engrsayeed
 
 ---
 
