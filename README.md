@@ -1,6 +1,5 @@
 # Hi, I'm Sayeed Hossain 👋
 
-### Founder & CEO at GiveTurn Tech Expert
 ### Full-Stack Developer • Technical Project Manager • Technology Strategist
 
 Building scalable digital products, leading technical teams, and turning business ideas into production-ready solutions.
